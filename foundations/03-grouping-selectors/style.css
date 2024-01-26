@@ -1,0 +1,14 @@
+ .clickMeButton,
+ .clickMeInstead {
+    font-size: 20px; 
+ }
+
+ .clickMeButton{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+ }
+
+ .clickMeInstead{
+    background-color: yellow;
+ }
